@@ -14,4 +14,4 @@ Here are some ideas to get you started: -->
 
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=joseph27choi&show_icons=true&theme=radical%22/%3E" />
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=joseph27choi" height="80%"/>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=joseph27choi" height="50%"/>
