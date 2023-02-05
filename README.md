@@ -8,8 +8,8 @@ Here are some ideas to get you started: -->
 - 🔭 I’m currently working on CIFAR-10 dataset
 - 🌱 I’m currently learning Data Structures, Machine Learning
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/josephchoi27-ece/">LinkedIn</a>
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 😄 Pronouns: He because I'll never be Him
+- ⚡ Fun fact: I love Kangaroos <img src="https://media0.giphy.com/media/H3XtT5McZIIiMAeR8Z/giphy.gif">
 
 
 
