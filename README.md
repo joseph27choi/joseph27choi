@@ -14,9 +14,9 @@ Here are some ideas to get you started: -->
 
 <tr>
   <td>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=joseph27choi&show_icons=true&theme=radical%22/%3E" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=joseph27choi&show_icons=true&theme=radical%22/%3E" />
   </td>
   <td>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=joseph27choi"/>
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=joseph27choi"/>
   </td>
 </tr>
