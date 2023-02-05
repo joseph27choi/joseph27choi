@@ -12,7 +12,11 @@ Here are some ideas to get you started: -->
 - ⚡ Fun fact: I love Kangaroos 
 <img align="center" src="https://media.tenor.com/lcTJlAH78GsAAAAM/hold-me-cute.gif" height="80%">
 
-
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=joseph27choi&show_icons=true&theme=radical%22/%3E" />
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=joseph27choi"/>
+<tr>
+  <td>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=joseph27choi&show_icons=true&theme=radical%22/%3E" />
+  </td>
+  <td>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=joseph27choi"/>
+  </td>
+</tr>
