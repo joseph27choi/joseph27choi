@@ -9,7 +9,8 @@ Here are some ideas to get you started: -->
 - 🌱 I’m currently learning Data Structures, Machine Learning
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/josephchoi27-ece/">LinkedIn</a>
 - 😄 Pronouns: He because I'll never be Him
-- ⚡ Fun fact: I love Kangaroos <img align="center" src="https://media.tenor.com/lcTJlAH78GsAAAAM/hold-me-cute.gif" height="80%">
+- ⚡ Fun fact: I love Kangaroos 
+<img align="center" src="https://media.tenor.com/lcTJlAH78GsAAAAM/hold-me-cute.gif" height="80%">
 
 
 
