@@ -5,9 +5,8 @@
 
 Here are some ideas to get you started: -->
 
-- 🔭 I’m currently working on CIFAR-10 dataset
+- 🔭 I’m currently working AccountaBuddy
 - 🌱 I’m currently learning Data Structures and Algorithms
-- 📫 How to reach me: <a href="https://www.linkedin.com/in/josephchoi27-ece/">LinkedIn</a>
 - ⚡ Fun fact: I love Kangaroos 
 <img align="center" src="https://media.tenor.com/lcTJlAH78GsAAAAM/hold-me-cute.gif" height="80%">
 
