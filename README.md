@@ -6,9 +6,8 @@
 Here are some ideas to get you started: -->
 
 - 🔭 I’m currently working AccountaBuddy
-- 🌱 I’m currently learning Data Structures and Algorithms
-- ⚡ Fun fact: I love Kangaroos 
-<img align="center" src="https://media.tenor.com/lcTJlAH78GsAAAAM/hold-me-cute.gif" height="80%">
+- 🌱 I’m currently learning RTOS
+
 
 
 <!--
