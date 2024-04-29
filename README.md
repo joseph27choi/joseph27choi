@@ -6,7 +6,8 @@
 Here are some ideas to get you started: -->
 
 - 🔭 I’m currently working AccountaBuddy
-- 🌱 I’m currently learning RTOS
+- 🌱 I’m currently learning parallel and concurrent programming
+
 
 
 
